@@ -1,5 +1,5 @@
-# TENOSR FLOE JS INTELIGENCIA ARTIFICIAL
-# MODELO QUESTIONS AND ANSWERS BERT , INTELIGENCIA  ARTIFICIAL DE TEXTO PREENTRENADA.
+# TENSOR FLOW JS INTELIGENCIA ARTIFICIAL
+# MODELO QUESTIONS AND ANSWERS BERT , INTELIGENCIA  ARTIFICIAL DE TEXTO PRE-ENTRENADA.
 Estamos utilizando TensorFlow, una potente biblioteca de código abierto para aprendizaje automático, junto con el modelo BERT (Bidirectional Encoder Representations from Transformers), que es una red neuronal preentrenada diseñada para procesar y comprender lenguaje natural. Con esta combinación, podemos realizar tareas de procesamiento de lenguaje natural, como responder preguntas, generar texto y analizar el significado de oraciones y documentos.
 
 BERT se ha entrenado en una gran cantidad de datos de texto en varios idiomas, lo que le permite capturar patrones y relaciones en el lenguaje humano. Esto significa que puede comprender el contexto y la semántica detrás de las palabras en una oración, lo que lo convierte en una herramienta poderosa para tareas de procesamiento de lenguaje natural.
